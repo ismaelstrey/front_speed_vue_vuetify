@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Layout from "./layouts/Layout";
+import Layout from "./modules/front/layouts/Layout";
 
 export default {
   name: "App",

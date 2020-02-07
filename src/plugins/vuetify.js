@@ -1,7 +1,7 @@
 import Vue from "vue";
 import Vuetify from "vuetify/lib";
 import pt from "vuetify/es5/locale/pt";
-import "materialize-css/dist/css/materialize.css";
+// import "materialize-css/dist/css/materialize.css";
 import "roboto-fontface/css/roboto/roboto-fontface.css";
 import "@mdi/font/css/materialdesignicons.css";
 
@@ -28,7 +28,9 @@ export default new Vuetify({
     }
   },
   lang: {
-    locales: { pt },
+    locales: {
+      pt
+    },
     current: "pt"
   }
 });

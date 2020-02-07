@@ -8,7 +8,9 @@
             <v-icon>{{ item.icon }}</v-icon>
           </v-list-item-action>
           <v-list-item-content>
-            <v-list-item-title class="grey--text">{{ item.text }}</v-list-item-title>
+            <v-list-item-title class="grey--text">{{
+              item.text
+            }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </template>
@@ -19,8 +21,12 @@
 export default {
   name: "Navigation",
   props: {
-    teste: String,
+    showMenu: Boolean,
     items: Array
+  },
+  model: {
+    prop: "showMenu",
+    event: "hide"
   },
   data: () => ({
     drawer: null

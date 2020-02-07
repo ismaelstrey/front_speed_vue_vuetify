@@ -1,0 +1,21 @@
+{
+    "items": [{
+            "icon": "mdi-lightbulb",
+            "text": "Notes"
+        },
+        {
+            "icon": "mdi-hand-pointing-up",
+            "text": "Reminders"
+        },
+        {
+            "divider": true
+        },
+        {
+            "icon": "mdi-plus",
+            "text": "Create new label"
+        },
+        {
+            "divider": true
+        }
+    ]
+}
