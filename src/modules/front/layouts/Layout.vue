@@ -12,7 +12,7 @@
         flat
         hide-details
         label="O que vc procura?"
-        prepend-inner-icon="search"
+        prepend-inner-icon="mdi-movie-search-outline"
       />
       <v-spacer />
     </v-app-bar>
