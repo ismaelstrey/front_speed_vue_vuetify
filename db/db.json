@@ -17,5 +17,123 @@
         {
             "divider": true
         }
+    ],
+    "anuncios": [{
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "01",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "03",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "04",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "05",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "06",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "07",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "08",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "09",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "10",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "11",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "12",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "13",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        },
+        {
+            "img": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "title_img": "Top 10 Australian beaches",
+            "cod": "14",
+            "title": "Whitehaven Beach",
+            "description": "Whitsunday Island, Whitsunday Islands",
+            "share": "compartile",
+            "link": "/detalhes"
+        }
     ]
 }
